@@ -1,0 +1,29 @@
+_repo: General-Catholic-Devotions_33676
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Hammer, Bonaventure
+    aliases:
+    - Hammer, B. (Bonaventure)
+    - Hammer, Bonaventura
+    birthdate: 1842
+    deathdate: 1917
+    gutenberg_agent_id: '36489'
+    url: http://www.gutenberg.org/2009/agents/36489
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Prayers and devotions'
+- !lcc 'BV'
+title: General Catholic Devotions
+url: http://www.gutenberg.org/ebooks/33676
